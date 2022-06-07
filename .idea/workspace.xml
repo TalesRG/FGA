@@ -20,7 +20,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestandoMais">
     <configuration name="OlaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWord.OlaMundo" />
       <module name="Teste" />
@@ -34,8 +34,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestandoMais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWord.TestandoMais" />
+      <module name="Teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HelloWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestandoMais" />
         <item itemvalue="Application.OlaMundo" />
       </list>
     </recent_temporary>
