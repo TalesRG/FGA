@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbf6eda9-c62b-4aa9-9080-aaf229ab90ad" name="Changes" comment="Adicionando JoptionPane">
+    <list default="true" id="bbf6eda9-c62b-4aa9-9080-aaf229ab90ad" name="Changes" comment="excluindo classe">
+      <change afterPath="$PROJECT_DIR$/src/HelloWord/Slide18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWord/TestandoMais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWord/TestandoMais.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +33,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TestandoMais">
+}</component>
+  <component name="RunManager" selected="Application.Slide18">
     <configuration name="OlaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWord.OlaMundo" />
+      <module name="Teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HelloWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Slide18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWord.Slide18" />
       <module name="Teste" />
       <extension name="coverage">
         <pattern>
@@ -71,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Slide18" />
         <item itemvalue="Application.TestandoMais" />
         <item itemvalue="Application.OlaMundo" />
       </list>
@@ -85,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654618691981</updated>
       <workItem from="1654618694716" duration="1032000" />
+      <workItem from="1654686257882" duration="4424000" />
     </task>
     <task id="LOCAL-00001" summary="Ola mundo">
       <created>1654618785347</created>
@@ -100,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654618975547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="excluindo classe">
+      <created>1654686494772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654686494772</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ola mundo" />
     <MESSAGE value="Adicionando JoptionPane" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando JoptionPane" />
+    <MESSAGE value="excluindo classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="excluindo classe" />
   </component>
 </project>
